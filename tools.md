@@ -10,3 +10,8 @@
 
 ### セキュリティ
 [Ruby on Rails に関するチートシート](https://jpcertcc.github.io/OWASPdocuments/CheatSheets/RubyOnRails.html)
+
+[Rails SQL injection](https://rails-sqli.org/#)
+
+### パフォーマンス
+[ISCUON7上位陣戦略のまとめ](http://blog.bitjourney.com/entry/2017/11/09/101740)
